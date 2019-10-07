@@ -1,2 +1,2 @@
 # welcometosuperville
-Another wedding website with admin backend (with RSVP functionality) for a classy couple
+A wedding website (with RSVP functionality) for a classy couple
